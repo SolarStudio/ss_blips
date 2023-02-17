@@ -18,3 +18,9 @@ Open **blips.lua**
 **colour** the color of the blip
 **id** change the icon of the blip (-- https://docs.fivem.net/docs/game-references/blips/ --)
 **x, y, z** position on your map of the blip
+
+------------------------------------------------
+
+## Socials
+https://discord.gg/m3huCvhRme My German FiveM Server
+
